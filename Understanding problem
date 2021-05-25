@@ -1,0 +1,11 @@
+Input             Processes              Outputs
+           
+Products          Prompt products        Products on sale
+                                         Products out of stock
+
+Customers         Prompt customers       Number of customers
+                                         Customer demands
+
+Staff members     Prompt staff members    Number of staff members
+                                          Employees
+                                          Manager 

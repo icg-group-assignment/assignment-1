@@ -1,0 +1,32 @@
+Start
+Prompt Staff members 
+Enter staff member's details
+Get number of staff members 
+If staff member= employee
+Display employee 
+Else if
+Staff member= Manager 
+Display manager
+End if
+End
+
+Start
+Prompt customers
+Get customers details 
+Display number of customers
+Else if
+Customer details= Demands
+Display customers demands
+End if
+End
+
+Start
+Prompt products
+Get product details
+If product detail=sale
+Display products on sale and price 
+Else if
+Product detail= out of stock 
+Display product out of stock
+End if
+End

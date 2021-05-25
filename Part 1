@@ -1,34 +1,32 @@
 Description: We decided to come up with a website. This will 
-have Staff members (Manager and employees), Customers, Products 
-and Salling sides. For an employee to log into the website he/she
-need to select on Employee first and than enter his/her name and
-employee ID number.They will use this platform help customers by 
-answering their questions and refer them to the manager if they
-can't give details on whst the customer is asking. For a manager
-to log into the website he/she needs to click on manager and enter
-his/her name as it appears on work ID and their date of birth.
-They will use this platform to do advertisements and see customers 
-demand.They can also use it to tell customers which products are out 
-of stock and the ones that are available. Managers will also use 
-it meetings with their customers to hear from them eye-eye. 
-Customers will log in to thisplatform by just clicking on 
-customer and enter their customer's card number. They'll use 
-it for online purchasing and making their demands. Remember 
-this website us for all online buyers and physical buyers
-as they will be offering both.
+have Staff members (Manager and employees), Customers and Products.
+For an employee to log into the website he/she need to select on 
+Employee first and than enter his/her name and employee ID number.
+They will use this platform help customers by answering their 
+questions and refer them to the manager if they can't give details
+on what the customer is asking. For a manager to log into the website 
+he/she needs to click on manager and enter his/her name as it appears 
+on work ID and their date of birth. They will use this platform to do 
+advertisements and see customers demand.They can also use it to tell 
+customers which products are out of stock and the ones that are available. 
+Managers will also use it meetings with their customers to hear from them 
+eye-eye. Customers will log in to thisplatform by just clicking on 
+customer and enter their customer's card number. They'll use it for 
+purchasing and making their demands. Remember this website us for all 
+online buyers and physical buyers as they will be offering both.
 
 Modules are:Customers 
             Staff members
             Products
-            Sales
+            
 
 Customers: Can use this platform to communicate with staff members
           and for purchasing products online.
 Staff members: Use it to organise meetings with their customers and 
                giving them information about products they have in 
                stock.
-Products: Products need to be updated
-Salling: This is how products are being sold.
+Products: Products need to be updated.
+
 
 Functions: Production 
            Marketing 
@@ -42,7 +40,7 @@ Marketing: Customers need to have access on all electronic and physical
 Purchasing: Far customers need to support wherever they are so they need
             both online buying and physical buying.
 Distribution: Products need to be derivered in a fastest way either to the 
-             or to the customers. 
+             buiness or to the customers. 
 
 Variable name: Dependent Variable 
  Dependent Variable: All what an organization can do depents on their customers.            

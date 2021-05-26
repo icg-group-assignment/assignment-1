@@ -21,26 +21,12 @@ Modules are:Customers
             
 
 Customers: Can use this platform to communicate with staff members
-          and for purchasing products online.
-Staff members: Use it to organise meetings with their customers and 
-               giving them information about products they have in 
-               stock.
-Products: Products need to be updated.
+          and for purchasing products and give their demands.
+Staff members: Use it to get number of their customers,getting their 
+               demands giving them information about products they  
+               that they on sale and ones that are out of stock.
+Products: Products need to be updated by showing the one that are on 
+           sale and the one that are out of stock.
 
 
-Functions: Production 
-           Marketing 
-           Purchasing 
-           Distribution 
-
-Production: Products need to have good quality that can make customers
-           happy.
-Marketing: Customers need to have access on all electronic and physical 
-          markets for them to see what they want to buy
-Purchasing: Far customers need to support wherever they are so they need
-            both online buying and physical buying.
-Distribution: Products need to be derivered in a fastest way either to the 
-             buiness or to the customers. 
-
-Variable name: Dependent Variable 
- Dependent Variable: All what an organization can do depents on their customers.            
+     

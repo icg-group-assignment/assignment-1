@@ -28,5 +28,21 @@ Staff members: Use it to get number of their customers,getting their
 Products: Products need to be updated by showing the one that are on 
            sale and the one that are out of stock.
 
+Functions: Log in for employees, Manager and Customers
+       
+         
 
+ Employees: They can log in through the website on google  by clicking on it
+          (website) , click on employees from options given,
+          Enter user name and Employee Id number and click on log in.
+   
+Manager: They can log in through website on google by clicking on it.Click on
+          manager from the option given,Enter user name and Manager ID
+          number and click on login.
+
+Customer: They can log in through the website on google by clicking on it
+          Select Customers from options given, Enter customer name, Gender 
+          and customer card number and click log in.
+         
+          
      

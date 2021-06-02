@@ -37,11 +37,11 @@ Functions: Log in for employees, Manager and Customers
           Enter user name and Employee Id number and click on log in.
    
 Manager: They can log in through website on google by clicking on it.Click on
-          manager from the option given,Enter user name and Manager ID
+          manager from the option given,Enter user name and Manager card
           number and click on login.
 
 Customer: They can log in through the website on google by clicking on it
-          Select Customers from options given, Enter customer name, Gender 
+          Select Customers from options given, Enter customer name 
           and customer card number and click log in.
          
           
